@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="@id/lay" android:layout_width="-1" android:layout_height="-1">
+    <Button android:id="@id/backbutton" android:background="@drawable/backblack" android:layout_width="25dp" android:layout_height="25dp" />
+    <TextView android:layout_width="-2" android:layout_height="-2" android:text="Result" />
+    <TextView android:textSize="25dp" android:id="@id/correctans" android:layout_width="-2" android:layout_height="-2" android:text="Correct" />
+    <TextView android:textSize="25dp" android:id="@id/wrongans" android:layout_width="-2" android:layout_height="-2" android:text="Wrong" />
+</LinearLayout>

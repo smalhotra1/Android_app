@@ -1,0 +1,108 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: res/drawable-hdpi/brainysmurf.png
+SHA1-Digest: YPjNsHWiYdaz6r03GaaSKI21Slw=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: res/layout/resultaptitude.xml
+SHA1-Digest: gGoeT0HqLCpYg6RDRZKWZhNaJj8=
+
+Name: res/drawable-hdpi/luckycharm.png
+SHA1-Digest: GN8F6619ELnzZKfg/A2/r7SMCfM=
+
+Name: res/drawable-hdpi/backblack.png
+SHA1-Digest: qHuukL4EgylmMV2Ug0ssthVsZmE=
+
+Name: resources.arsc
+SHA1-Digest: 2161pDPtb28GCmS66/fiSw+WyBg=
+
+Name: res/layout/roughwork.xml
+SHA1-Digest: FjRLwJesdkq9B71BH/5fN+ikTmI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 7NtCMcm7g82yG5huzpyrLFySGE8=
+
+Name: res/drawable-hdpi/testtoptimer.xml
+SHA1-Digest: a5t5CZY2BbzlDZrrfjKV1xbcObU=
+
+Name: res/drawable-hdpi/goodluk.jpg
+SHA1-Digest: cUtpN6/CK4yR+lc3KFwxGR5N/lY=
+
+Name: res/layout/aptitudetest.xml
+SHA1-Digest: itB4ayXNzejf3S3xKlO6TpUhDP8=
+
+Name: res/layout/addquestion.xml
+SHA1-Digest: +Qf5Rb2jLkQnuqmPA+0yOYDPIl0=
+
+Name: res/drawable-hdpi/alarmclock.png
+SHA1-Digest: D4X190gI+ffTBYHcZqZgYIEgXiE=
+
+Name: res/layout/aptianswers.xml
+SHA1-Digest: bUPTBZx/xHGSJGzF53JJX37WGaw=
+
+Name: res/drawable-hdpi/brainwalasmurf.png
+SHA1-Digest: hT1QbKT8cgTOCvWDcOdQKj9rwNU=
+
+Name: res/layout/result.xml
+SHA1-Digest: aj+yuae27z+8Sg72dgzl18Kk1Ys=
+
+Name: res/layout/verball.xml
+SHA1-Digest: ss6pO0i/56GgagMJplg9kd9+O+U=
+
+Name: res/drawable-hdpi/testyy.png
+SHA1-Digest: vsbmIUC9tkS6baDBh2vXvWSFmRc=
+
+Name: res/drawable-hdpi/arrow_down_float.png
+SHA1-Digest: mUjlUoBss6R29s6t+yRfqa4+boA=
+
+Name: res/drawable-hdpi/back.png
+SHA1-Digest: 7hIsVVEtZFm67vDuknE66bbZAyk=
+
+Name: res/layout/formulas.xml
+SHA1-Digest: A0JvoCoZnbecQSjWvSKWRscbS8o=
+
+Name: classes.dex
+SHA1-Digest: YOFOFhTSprZs7hF7w6P2o+psUm4=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+
+Name: res/layout/verbalanswers.xml
+SHA1-Digest: bUPTBZx/xHGSJGzF53JJX37WGaw=
+
+Name: res/menu/main.xml
+SHA1-Digest: 6Ai0gf1L0GKXueMxS5MQ1Chlhmg=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: res/drawable-hdpi/testpencil.png
+SHA1-Digest: tlXa+aWXB82vPskdCPBkGH7upVA=
+
+Name: res/layout/programquestions.xml
+SHA1-Digest: NNhudEiXnhBwo5e46Xs1Q+mUICc=
+
+Name: res/drawable-hdpi/buttonstyle.xml
+SHA1-Digest: htYjsKGZcIrz2ndVM5EpmPehii8=
+
+Name: res/layout/test.xml
+SHA1-Digest: 8vyOjQX+2vstc9oapXvX8KZb4Sk=
+
+Name: res/drawable-hdpi/smurfbook.png
+SHA1-Digest: M/t25xA+SXg2NuyibxyTwnFa9ys=
+
+Name: res/layout/frontpage.xml
+SHA1-Digest: iaEmZiCsRFsgpFUJETL4v0qoLxk=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: jH9Qat3zY6piCF9fTuSPADGcLpM=
+
+Name: res/drawable-hdpi/button_selector.xml
+SHA1-Digest: 1xEnoyt+xVlCUQ6Q7x3sA3pkYJw=
+

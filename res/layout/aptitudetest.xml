@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="11" android:orientation="0" android:background="#707081" android:layout_width="-1" android:layout_height="60dp">
+        <TextView android:textSize="26dp" android:textColor="#ffffff" android:gravity="11" android:id="@id/atimer" android:background="@drawable/testtoptimer" android:layout_width="90dp" android:layout_height="-2" />
+    </LinearLayout>
+    <ScrollView android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="1" android:padding="5dp" android:layout_width="-1" android:layout_height="-1">
+            <TextView android:textSize="25dp" android:textColor="#33334c" android:id="@id/aquestion" android:layout_width="-2" android:layout_height="-2" />
+            <RadioGroup android:id="@id/argroup" android:layout_width="-1" android:layout_height="-2">
+                <RadioButton android:id="@id/aoption1" android:layout_width="-1" android:layout_height="-2" />
+                <RadioButton android:id="@id/aoption2" android:layout_width="-1" android:layout_height="-2" />
+                <RadioButton android:id="@id/aoption3" android:layout_width="-1" android:layout_height="-2" />
+                <RadioButton android:id="@id/aoption4" android:layout_width="-1" android:layout_height="-2" />
+                <Button android:layout_gravity="5" android:id="@id/anext" android:layout_width="-2" android:layout_height="-2" android:text="Next" />
+                <Button android:layout_gravity="5" android:id="@id/arough" android:layout_width="-2" android:layout_height="-2" android:text="Calculator" />
+            </RadioGroup>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

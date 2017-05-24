@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:padding="10dp" android:layout_width="-1" android:layout_height="-1">
+        <EditText android:id="@id/qid" android:layout_width="-1" android:layout_height="40dp" android:hint="Question ID" />
+        <EditText android:id="@id/ques" android:layout_width="-1" android:layout_height="40dp" android:hint="Question" />
+        <EditText android:id="@id/op1" android:layout_width="-1" android:layout_height="40dp" android:hint="Option 1" />
+        <EditText android:id="@id/op2" android:layout_width="-1" android:layout_height="40dp" android:hint="Option 2" />
+        <EditText android:id="@id/op3" android:layout_width="-1" android:layout_height="40dp" android:hint="Option 3" />
+        <EditText android:id="@id/op4" android:layout_width="-1" android:layout_height="40dp" android:hint="Option 4" />
+        <EditText android:id="@id/ans" android:layout_width="-1" android:layout_height="40dp" android:hint="Correct Answer" />
+        <Button android:id="@id/addques" android:layout_width="-2" android:layout_height="-2" android:text="Add Question" />
+    </LinearLayout>
+</ScrollView>

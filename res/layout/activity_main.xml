@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="@drawable/back" android:layout_width="-1" android:layout_height="-1">
+    <ImageView android:id="@id/imm" android:layout_width="-2" android:layout_height="-2" android:src="@drawable/testpencil" />
+    <RelativeLayout android:layout_width="-2" android:layout_height="-2">
+        <TextView android:textSize="18dp" android:textStyle="1" android:textColor="#5b5b6f" android:id="@id/texty" android:layout_width="-2" android:layout_height="-2" android:text="Lets Revise Some Formulas" />
+        <Button android:id="@id/formula" android:background="@drawable/backblack" android:layout_width="44dp" android:layout_height="32dp" android:layout_toRightOf="@id/texty" />
+    </RelativeLayout>
+    <Button android:textColor="#ffffff" android:id="@id/start_test" android:background="@drawable/testtoptimer" android:layout_width="318dp" android:layout_height="-2" android:layout_marginTop="10dp" android:text="Misc. Test" />
+    <RelativeLayout android:layout_width="-2" android:layout_height="-2">
+        <Button android:textColor="#ffffff" android:layout_gravity="11" android:id="@id/apti" android:background="@drawable/testtoptimer" android:layout_width="134dp" android:layout_height="-2" android:layout_marginTop="10dp" android:text="Aptitude" />
+        <Button android:textColor="#ffffff" android:layout_gravity="11" android:id="@id/verbal" android:background="@drawable/testtoptimer" android:layout_width="134dp" android:layout_height="-2" android:layout_marginLeft="55dp" android:layout_marginTop="10dp" android:text="Verbal Ability" android:layout_toRightOf="@id/apti" />
+        <Button android:textColor="#ffffff" android:layout_gravity="11" android:id="@id/cprogram" android:background="@drawable/testtoptimer" android:layout_width="134dp" android:layout_height="-2" android:layout_marginTop="10dp" android:text="Programming" android:layout_below="@id/apti" />
+    </RelativeLayout>
+    <Button android:textColor="#ffffff" android:layout_gravity="11" android:id="@id/addq" android:background="@drawable/testtoptimer" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp" android:text="Add Question" />
+</LinearLayout>

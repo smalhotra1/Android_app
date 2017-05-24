@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:"http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.example.androidtestproject">
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="18" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@drawable/testpencil" android:debuggable="true" android:allowBackup="true">
+        <activity android:theme="@*android:style/Theme.NoTitleBar" android:label="@string/app_name" android:name="com.example.androidtestproject.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.FrontPage">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.FrontPage" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.Programques">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.Programques" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.Verbalquestions">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.Verbalquestions" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.Verbalansw">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.Verbalansw" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.Roughwork">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.Roughwork" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.AddQuestion">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.AddQuestion" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.Test">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.Test" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.Formulas">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.Formulas" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.Aptianswers">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.Aptianswers" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.AptitudeTest">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.AptitudeTest" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.Result">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.Result" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.example.androidtestproject.Resultapti">
+            <intent-filter>
+                <action android:name="com.example.androidtestproject.Resultapti" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
